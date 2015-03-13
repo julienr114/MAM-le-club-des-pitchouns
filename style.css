@@ -2,14 +2,28 @@ body {
 	background: rgb(255, 255, 255);
 }
 header {
-      background: url("http://i.imgur.com/5dr2FQ9.jpg");
+      background: url("http://i.imgur.com/2T8RMew.jpg");
       text-align: center;
-      background-size: 1600px 340px;
-      color: white;
-  }
-    ul {
+      background-position: 100%;
+}
+ul {
       padding: 10px;
-    }
-    li {
+}
+li {
       display: inline;
-      padding: 0px 50px 0px 50px;
+      padding: 0px 70px 0px 70px;
+      color: white;
+}
+.menu {
+		font-family: helvetica;
+		text-decoration: none;
+		color: white;
+		font-size: 22px;
+}
+.menu:visited {
+		color: white;
+}
+.menu:hover {
+	color: rgb(231, 76, 60);
+	font-weight: bold;
+}
