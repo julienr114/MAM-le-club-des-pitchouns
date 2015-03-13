@@ -1,3 +1,15 @@
 body {
-	background: rgb(101, 197, 171);
+	background: rgb(255, 255, 255);
 }
+header {
+      background: url("http://i.imgur.com/5dr2FQ9.jpg");
+      text-align: center;
+      background-size: 1600px 340px;
+      color: white;
+  }
+    ul {
+      padding: 10px;
+    }
+    li {
+      display: inline;
+      padding: 0px 50px 0px 50px;
