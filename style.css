@@ -10,11 +10,35 @@ header {
 }
 ul {
       padding: 10px;
+      margin: 0 auto;
+}
+.menu2 {
+	background: rgb(253, 2, 91);
+	font-family: helvetica;
+	text-decoration: none;
+	color: white;
+	font-size: 16px; 
+}
+.menu2:visited {
+	color: white;
+}
+.menu2:hover {
+	color: rgb(247, 213, 55);
 }
 li {
       display: inline;
-      padding: 0px 50px 0px 50px;
+      padding: 0px 60px 0px 60px;
       color: white;
+}
+.li2 {
+	display: inline;
+    padding: 0px 30px 0px 30px;
+    color: white;
+}
+.li3 {
+	display: inline;
+    padding: 0px 80px 0px 80px;
+    color: white;
 }
 .top {
 	font-family: helvetica;
@@ -41,6 +65,7 @@ div.box {
 	max-width: 800px;
     padding: 20px;
     margin: 0 auto;
+    margin-top: 10px;
     margin-bottom: 10px;
 	background: white;
 	border: 7px solid white;
@@ -54,4 +79,7 @@ h1 {
 	text-align: left;
 	border-bottom-style: solid;
 	border-bottom-color: rgb(253, 2, 91);
+}
+h6 {
+	margin: 0 auto;
 }
