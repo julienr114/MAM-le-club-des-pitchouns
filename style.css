@@ -2,6 +2,7 @@ body {
 	background: rgb(246, 237, 219);
 	font-family: helvetica;
 	margin: 0 auto;
+	min-width: 1000px
 }
 header {
       background: url("http://i.imgur.com/2T8RMew.jpg");
