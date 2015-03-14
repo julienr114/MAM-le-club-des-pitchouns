@@ -1,6 +1,6 @@
 body {
 	background: rgb(246, 237, 219);
-	font-family: myriad pro;
+	font-family: helveticaS;
 	margin: 0 auto;
 	min-width: 1000px
 
@@ -14,9 +14,13 @@ ul {
       padding: 10px;
       margin: 0 auto;
 }
+ul.normal {
+      padding: 0px;
+      margin: 0 auto;
+}
 .menu2 {
 	background: rgb(253, 2, 91);
-	font-family: arial;
+	font-family: helvetica;
 	text-decoration: none;
 	color: white;
 	font-size: 16px; 
@@ -41,6 +45,11 @@ li {
 	display: inline;
     padding: 0px 80px 0px 80px;
     color: white;
+}
+.li4 {
+	color: black;
+	display: inherit;
+	margin: 0 auto;
 }
 .top {
 	font-family: helvetica;
