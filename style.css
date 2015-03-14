@@ -22,7 +22,6 @@ li {
 }
 .top:hover {
 	color: rgb(192, 57, 43);
-	font-weight: bold;
 }
 .menu {
 	font-family: helvetica;
@@ -35,5 +34,4 @@ li {
 }
 .menu:hover {
 	color: rgb(192, 57, 43);
-	font-weight: bold;
 }
