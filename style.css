@@ -1,7 +1,6 @@
 body {
 	background: rgb(246, 237, 219);
 	font-family: helvetica;
-	text-align: center;
 	margin: 0 auto;
 }
 header {
@@ -20,11 +19,11 @@ li {
 .top {
 	font-family: helvetica;
 	text-decoration: none;
-	color: rgb(44, 62, 80);
+	color: rgb(253, 2, 91);
 	font-size: 23px;
 }
 .top:hover {
-	color: rgb(192, 57, 43);
+	color: rgb(247, 213, 55);
 }
 .menu {
 	font-family: helvetica;
@@ -36,15 +35,23 @@ li {
 	color: white;
 }
 .menu:hover {
-	color: rgb(192, 57, 43);
+	color: rgb(247, 213, 55);
 }
 div.box {
 	max-width: 800px;
     padding: 20px;
     margin: 0 auto;
+    margin-bottom: 10px;
 	background: white;
+	border: 7px solid white;
+    border-radius: 20px;
 }
 h1 {
-	font-size: 40px;
-
+	font-family: arial;
+	color: rgb(253, 2, 91);
+	font-size: 50px;
+	margin: 0 0 10px 0;
+	text-align: left;
+	border-bottom-style: solid;
+	border-bottom-color: rgb(253, 2, 91);
 }
