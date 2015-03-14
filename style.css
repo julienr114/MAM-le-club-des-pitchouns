@@ -1,5 +1,8 @@
 body {
-	background: rgb(255, 255, 255);
+	background: rgb(246, 237, 219);
+	font-family: helvetica;
+	text-align: center;
+	margin: 0 auto;
 }
 header {
       background: url("http://i.imgur.com/2T8RMew.jpg");
@@ -11,7 +14,7 @@ ul {
 }
 li {
       display: inline;
-      padding: 0px 70px 0px 70px;
+      padding: 0px 50px 0px 50px;
       color: white;
 }
 .top {
@@ -34,4 +37,14 @@ li {
 }
 .menu:hover {
 	color: rgb(192, 57, 43);
+}
+div.box {
+	max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+	background: white;
+}
+h1 {
+	font-size: 40px;
+
 }
