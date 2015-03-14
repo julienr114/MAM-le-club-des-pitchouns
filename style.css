@@ -1,8 +1,9 @@
 body {
 	background: rgb(246, 237, 219);
-	font-family: helvetica;
+	font-family: myriad pro;
 	margin: 0 auto;
 	min-width: 1000px
+
 }
 header {
       background: url("http://i.imgur.com/2T8RMew.jpg");
@@ -15,7 +16,7 @@ ul {
 }
 .menu2 {
 	background: rgb(253, 2, 91);
-	font-family: helvetica;
+	font-family: arial;
 	text-decoration: none;
 	color: white;
 	font-size: 16px; 
@@ -85,16 +86,29 @@ h6 {
 	margin: 0 auto;
 }
 .bouton-top{
-width:40px;
-height:40px;
-position:absolute;
-margin-left:90%;
+	width:40px;
+	height:40px;
+	position:absolute;
+	margin-left:90%;
 }
 
 #btn_up{
-position:fixed;
-cursor: pointer;
-bottom:25%;
-right:auto;
-display:none
+	position:fixed;
+	cursor: pointer;
+	bottom:25%;
+	right:auto;
+	display:none
 }
+p {
+	text-align: justify;
+}
+p.center {
+	text-align: center;
+}
+div.picture {
+	max-width: 416px;
+    padding: 20px;
+    margin: 0 auto;
+    position: center;
+}
+
