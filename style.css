@@ -95,6 +95,11 @@ h3 {
 	margin: 0 auto;
 	color: rgb(253, 2, 91);
 }
+.chiffre {
+	font-family: arial;
+	color: rgb(253, 2, 91);
+	font-size: 50px;
+}
 .bouton-top{
 	width:40px;
 	height:40px;
