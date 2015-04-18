@@ -7,7 +7,7 @@ body {
 	background: -ms-linear-gradient(top, rgb(101,197,170) 0%,rgb(181,221,210) 100%);
 	background: linear-gradient(to bottom, rgb(101,197,170) 0%,rgb(181,221,210) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#65c5aa', endColorstr='#b5ddd2',GradientType=0 );;
-	font-family: helveticaS;
+	font-family: futura;
 	margin: 0 auto;
 	min-width: 1000px
 
